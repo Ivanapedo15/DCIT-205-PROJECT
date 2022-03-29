@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;;
+}
+
+
+
+body {
+    background-color: aliceblue;
+    font: 400;
+    font-family: "open sans", sans-serif, "montserrat", serif;
+    color: rgb(65, 60, 60);
+}
+
+.imageoverlay{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-image: url(94038101-teen-friends-portrait-sitting-together-on-a-wall-in-the-city-close-view-of-two-girls-and-two-boys-si.jpeg);
+    background-size: cover;
+}
+
+.overlay {
+    width: 100%;
+    height: 100%;
+   align-items: center;
+   color: white;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+   background-color: rgba(6, 5, 48, 0.705);
+   font-size: 50px;
+   font-weight: 800;
+}
+
+button{
+    border-radius: 40px;
+    font-weight: 800;
+    font-size: large;
+    padding: 15px;
+    color: #ffffff;
+    background-color:#0c95d4;
+    border-width: 0px;
+}
+i{
+    color: #ffffff;
+
+}
+
+section {   
+    padding: 100px;
+}
+
+h2{
+    color: black;
+    font-weight: 600;
+}
+
+p{
+    color: rgb(73, 69, 69);
+}
+
+
