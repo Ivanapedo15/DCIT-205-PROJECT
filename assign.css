@@ -73,9 +73,11 @@ p{
    color: white;
    font-size: 20px;
    font-weight: 200;
+   margin-bottom: 30px;
 }
 
 .members {
     font-weight: 800;
     font-size: 50px;;
 }
+
