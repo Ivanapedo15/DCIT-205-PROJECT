@@ -9,7 +9,8 @@ body {
     background-color: aliceblue;
     font:200;
     font-family: 'Raleway', sans-serif;
-    color: rgb(65, 60, 60);
+    font-family: 'Josefin Slab', serif;
+    color: rgb(0, 0, 0);
 }
 
 .imageoverlay{
@@ -97,6 +98,7 @@ i{
     margin-top: 3px;
     margin-left: 140px;
     margin-bottom: 40px;
+    height: 300px;
 }
 
 #webr3 {   
@@ -107,10 +109,12 @@ i{
     margin-top: 3px;
     margin-right: 140px;
     margin-bottom: 40px;
+    height: 300px;
+  
 
 h2{
     color: black;
-    font-weight: 300;
+    font-weight: 500;
 }
 
 p{
@@ -121,14 +125,10 @@ p{
 #members{
     height: 200px;
     width: 100%;
-    padding: 20px;
-    background-color: rgba(6, 5, 48, 0.705);
-    display: flex;
-   justify-content: center;
-   flex-direction: column;
-   align-items: center;
-   color: white;
-   font-size: 20px;
-   font-weight: 200;
-   margin-bottom: 30px;
+    background-color: indigo;
+}
+
+h3 {
+    font-weight: 800;
+    font-size: 500px;
 }
