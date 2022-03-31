@@ -7,8 +7,8 @@
 
 body {
     background-color: aliceblue;
-    font: 400;
-    font-family: "open sans", sans-serif, "montserrat", serif;
+    font:200;
+    font-family: 'Raleway', sans-serif;
     color: rgb(65, 60, 60);
 }
 
@@ -31,55 +31,91 @@ body {
    align-items: center;
    background-color: rgba(6, 5, 48, 0.705);
    font-size: 50px;
-   font-weight: 800;
+   font-weight: 300;
 }
 
 button{
     border-radius: 40px;
-    font-weight: 800;
+    font-weight: 300;
     font-size: large;
-    padding: 15px;
+    padding: 12px;
     color: #ffffff;
-    background-color:#0c95d4;
+    background-color:#0dcaf0;
     border-width: 0px;
+    width: 170px;
+    margin-bottom: 15px;
+    
 }
+
+#but{
+    border-radius: 40px;
+    font-weight: 300;
+    font-size: large;
+    padding: 12px;
+    color: #ffffff;
+    background-color:#0dcaf0;
+    border-width: 0px;
+    width: 170px;
+    margin-bottom: 15px;
+    
+}
+
+#butt{
+    
+    color: black;
+    font-weight: 300;
+    margin-bottom: 30px;
+    
+}
+
 i{
     color: #ffffff;
 
 }
 
-section {   
+.a {   
     padding: 40px;
     margin-left: 10px;
     margin-right: 5px;
+    margin-top: 3px;
+    margin-left: 140px;
 }
+
+.c {   
+    padding: 40px;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-top: 3px;
+    margin-right: 140px;
+}
+
+.b {   
+    padding: 40px;
+    margin-left: 10px;
+    margin-right: 5px;
+    border: solid rgba(39, 191, 211, 0.5) 3px;
+    margin-top: 3px;
+    margin-left: 140px;
+    margin-bottom: 40px;
+}
+
+#webr3 {   
+    padding: 40px;
+    margin-left: 10px;
+    margin-right: 5px;
+    border: solid rgba(39, 191, 211, 0.5) 3px;
+    margin-top: 3px;
+    margin-right: 140px;
+    margin-bottom: 40px;
 
 h2{
     color: black;
-    font-weight: 600;
+    font-weight: 300;
 }
 
 p{
     color: rgb(73, 69, 69);
 }
 
-#members {
-    height: 200px;
-    width: 100%;
-    padding: 20px;
-    background-color: rgba(6, 5, 48, 0.705);
-    display: flex;
-   justify-content: center;
-   flex-direction: column;
-   align-items: center;
-   color: white;
-   font-size: 20px;
-   font-weight: 200;
-   margin-bottom: 30px;
-}
 
-.members {
-    font-weight: 800;
-    font-size: 50px;;
-}
 
